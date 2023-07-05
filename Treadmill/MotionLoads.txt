@@ -1,0 +1,1666 @@
+ANSYS Workbench Frame Loads File
+07/04/23 15:16:18
+
+Assembly Database
+WB Rigid Body Dynamics
+
+Time
+8.200000e-01
+
+Frame
+0
+
+Inertial State
+    Body
+        DDMPart_3
+    Gravitational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Center of Rotation
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Inertial State
+    Body
+        DDMPart_5
+    Gravitational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Center of Rotation
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Inertial State
+    Body
+        DDMPart_7
+    Gravitational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Center of Rotation
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Inertial State
+    Body
+        DDMPart_9
+    Gravitational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Center of Rotation
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Inertial State
+    Body
+        DDMPart_10
+    Gravitational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Center of Rotation
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Inertial State
+    Body
+        DDMPart_11
+    Gravitational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Center of Rotation
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Inertial State
+    Body
+        DDMPart_12
+    Gravitational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Center of Rotation
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Inertial State
+    Body
+        DDMPart_14
+    Gravitational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Center of Rotation
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Inertial State
+    Body
+        DDMPart_16
+    Gravitational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Center of Rotation
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Inertial State
+    Body
+        DDMPart_17
+    Gravitational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Center of Rotation
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Inertial State
+    Body
+        DDMPart_18
+    Gravitational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Center of Rotation
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Inertial State
+    Body
+        DDMPart_19
+    Gravitational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Center of Rotation
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Inertial State
+    Body
+        DDMPart_20
+    Gravitational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Center of Rotation
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Inertial State
+    Body
+        DDMPart_21
+    Gravitational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Center of Rotation
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Inertial State
+    Body
+        DDMPart_22
+    Gravitational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Center of Rotation
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Inertial State
+    Body
+        DDMPart_23
+    Gravitational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Center of Rotation
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Inertial State
+    Body
+        DDMPart_24
+    Gravitational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Center of Rotation
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Inertial State
+    Body
+        DDMPart_25
+    Gravitational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Center of Rotation
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Inertial State
+    Body
+        DDMPart_26
+    Gravitational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Center of Rotation
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Inertial State
+    Body
+        DDMPart_27
+    Gravitational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Center of Rotation
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Inertial State
+    Body
+        DDMPart_28
+    Gravitational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Center of Rotation
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Inertial State
+    Body
+        DDMPart_29
+    Gravitational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Center of Rotation
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Inertial State
+    Body
+        DDMPart_30
+    Gravitational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Center of Rotation
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Inertial State
+    Body
+        DDMPart_31
+    Gravitational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Center of Rotation
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Inertial State
+    Body
+        DDMPart_32
+    Gravitational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Acceleration
+        2.593908e-16    1.046709e-15    2.105993e-31
+    Rotational Velocity
+        -6.276433e-15    2.912123e-16    6.283185e+00
+    Rotational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Center of Rotation
+        -1.305077e-01    2.520244e-01    3.907156e-01
+
+Inertial State
+    Body
+        DDMPart_33
+    Gravitational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Acceleration
+        -1.310599e-16    3.669082e-16    -1.479244e-31
+    Rotational Velocity
+        -6.276433e-15    2.912123e-16    6.283185e+00
+    Rotational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Center of Rotation
+        -8.655500e-02    2.499850e-01    3.907156e-01
+
+Inertial State
+    Body
+        DDMPart_34
+    Gravitational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Acceleration
+        -4.616427e-16    5.891273e-16    -4.884514e-31
+    Rotational Velocity
+        -6.276433e-15    2.912123e-16    6.283185e+00
+    Rotational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Center of Rotation
+        -1.744604e-01    2.540637e-01    3.907156e-01
+
+Inertial State
+    Body
+        DDMPart_35
+    Gravitational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Center of Rotation
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Inertial State
+    Body
+        DDMPart_36
+    Gravitational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Center of Rotation
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Inertial State
+    Body
+        DDMPart_37
+    Gravitational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Center of Rotation
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Inertial State
+    Body
+        DDMPart_38
+    Gravitational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Center of Rotation
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Inertial State
+    Body
+        DDMPart_39
+    Gravitational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Center of Rotation
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Inertial State
+    Body
+        DDMPart_40
+    Gravitational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Center of Rotation
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Inertial State
+    Body
+        DDMPart_41
+    Gravitational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Center of Rotation
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Inertial State
+    Body
+        DDMPart_42
+    Gravitational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Center of Rotation
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Inertial State
+    Body
+        DDMPart_43
+    Gravitational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Translational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Velocity
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Rotational Acceleration
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Center of Rotation
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Load
+    Body
+        DDMPart_3
+    Coord
+
+    Features
+        DDMFace142
+    Position
+        3.773424e-01    2.499112e-01    6.507156e-01
+    Load
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+    Torque
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+
+Load
+    Body
+        DDMPart_3
+    Coord
+
+    Features
+        DDMFace193
+    Position
+        3.773424e-01    2.499112e-01    1.307156e-01
+    Load
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+    Torque
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+
+Load
+    Body
+        DDMPart_3
+    Coord
+
+    Features
+        DDMFace125
+    Position
+        6.374355e-01    2.476039e-01    1.557156e-01
+    Load
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+    Torque
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+
+Load
+    Body
+        DDMPart_3
+    Coord
+
+    Features
+        DDMFace201
+    Position
+        5.934355e-01    2.476039e-01    1.557156e-01
+    Load
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+    Torque
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+
+Load
+    Body
+        DDMPart_3
+    Coord
+
+    Features
+        DDMFace204
+    Position
+        5.494355e-01    2.476039e-01    1.557156e-01
+    Load
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+    Torque
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+
+Load
+    Body
+        DDMPart_3
+    Coord
+
+    Features
+        DDMFace138
+    Position
+        5.054355e-01    2.476039e-01    6.257156e-01
+    Load
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+    Torque
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+
+Load
+    Body
+        DDMPart_3
+    Coord
+
+    Features
+        DDMFace129
+    Position
+        4.614355e-01    2.476039e-01    6.257156e-01
+    Load
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+    Torque
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+
+Load
+    Body
+        DDMPart_3
+    Coord
+
+    Features
+        DDMFace208
+    Position
+        4.174355e-01    2.476039e-01    1.557156e-01
+    Load
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+    Torque
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+
+Load
+    Body
+        DDMPart_3
+    Coord
+
+    Features
+        DDMFace52
+    Position
+        3.294355e-01    2.476039e-01    1.557156e-01
+    Load
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+    Torque
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+
+Load
+    Body
+        DDMPart_3
+    Coord
+
+    Features
+        DDMFace50
+    Position
+        2.854355e-01    2.476039e-01    1.557156e-01
+    Load
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+    Torque
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+
+Load
+    Body
+        DDMPart_3
+    Coord
+
+    Features
+        DDMFace54
+    Position
+        3.734355e-01    2.476039e-01    1.557156e-01
+    Load
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+    Torque
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+
+Load
+    Body
+        DDMPart_3
+    Coord
+
+    Features
+        DDMFace48
+    Position
+        2.414355e-01    2.476039e-01    1.557156e-01
+    Load
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+    Torque
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+
+Load
+    Body
+        DDMPart_3
+    Coord
+
+    Features
+        DDMFace46
+    Position
+        1.974355e-01    2.476039e-01    1.557156e-01
+    Load
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+    Torque
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+
+Load
+    Body
+        DDMPart_3
+    Coord
+
+    Features
+        DDMFace214
+    Position
+        1.534355e-01    2.476039e-01    6.257156e-01
+    Load
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+    Torque
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+
+Load
+    Body
+        DDMPart_3
+    Coord
+
+    Features
+        DDMFace212
+    Position
+        1.094355e-01    2.476039e-01    6.257156e-01
+    Load
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+    Torque
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+
+Load
+    Body
+        DDMPart_3
+    Coord
+
+    Features
+        DDMFace194
+    Position
+        3.749355e-01    2.126039e-01    3.907156e-01
+    Load
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Torque
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Load
+    Body
+        DDMPart_5
+    Coord
+
+    Features
+        DDMFace256
+    Position
+        3.880942e-02    2.450169e-01    6.507156e-01
+    Load
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+    Torque
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+
+Load
+    Body
+        DDMPart_5
+    Coord
+
+    Features
+        DDMFace266
+    Position
+        3.880942e-02    2.450169e-01    1.307156e-01
+    Load
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+    Torque
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+
+Load
+    Body
+        DDMPart_5
+    Coord
+
+    Features
+        DDMFace256
+    Position
+        3.880942e-02    2.450169e-01    6.507156e-01
+    Load
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+    Torque
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+
+Load
+    Body
+        DDMPart_5
+    Coord
+
+    Features
+        DDMFace266
+    Position
+        3.880942e-02    2.450169e-01    1.307156e-01
+    Load
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+    Torque
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+
+Load
+    Body
+        DDMPart_5
+    Coord
+
+    Features
+        DDMFace253
+    Position
+        6.080503e-02    2.464714e-01    1.557156e-01
+    Load
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+    Torque
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+
+Load
+    Body
+        DDMPart_5
+    Coord
+
+    Features
+        DDMFace255
+    Position
+        1.680524e-02    2.463356e-01    1.557156e-01
+    Load
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+    Torque
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+
+Load
+    Body
+        DDMPart_5
+    Coord
+
+    Features
+        DDMFace267
+    Position
+        3.891311e-02    2.114037e-01    3.907156e-01
+    Load
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Torque
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Load
+    Body
+        DDMPart_7
+    Coord
+
+    Features
+        DDMFace498
+    Position
+        -3.182338e-01    2.630942e-01    6.507156e-01
+    Load
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+    Torque
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+
+Load
+    Body
+        DDMPart_7
+    Coord
+
+    Features
+        DDMFace502
+    Position
+        -3.182338e-01    2.630942e-01    1.307156e-01
+    Load
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+    Torque
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+
+Load
+    Body
+        DDMPart_7
+    Coord
+
+    Features
+        DDMFace512
+    Position
+        -6.049973e-01    2.740396e-01    1.157156e-01
+    Load
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+    Torque
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+
+Load
+    Body
+        DDMPart_7
+    Coord
+
+    Features
+        DDMFace516
+    Position
+        -4.260228e-02    2.479457e-01    1.557156e-01
+    Load
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+    Torque
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+
+Load
+    Body
+        DDMPart_7
+    Coord
+
+    Features
+        DDMFace522
+    Position
+        -1.305077e-01    2.520244e-01    1.557156e-01
+    Load
+        -6.841347e-14    -8.156598e-14    -5.316794e-29
+    Torque
+        2.243616e-14    -1.472054e-14    1.743640e-29
+
+Load
+    Body
+        DDMPart_7
+    Coord
+
+    Features
+        DDMFace519
+    Position
+        -8.655500e-02    2.499850e-01    1.557156e-01
+    Load
+        -6.586453e-14    -1.274468e-13    -5.118702e-29
+    Torque
+        3.321816e-14    -1.412154e-14    2.581569e-29
+
+Load
+    Body
+        DDMPart_7
+    Coord
+
+    Features
+        DDMFace525
+    Position
+        -1.744604e-01    2.540637e-01    1.557156e-01
+    Load
+        -5.311985e-14    -6.117449e-14    -4.128241e-29
+    Torque
+        1.764415e-14    -1.112654e-14    1.371226e-29
+
+Load
+    Body
+        DDMPart_7
+    Coord
+
+    Features
+        DDMFace534
+    Position
+        -3.063186e-01    2.601816e-01    1.557156e-01
+    Load
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+    Torque
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+
+Load
+    Body
+        DDMPart_7
+    Coord
+
+    Features
+        DDMFace528
+    Position
+        -2.184131e-01    2.561030e-01    1.557156e-01
+    Load
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+    Torque
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+
+Load
+    Body
+        DDMPart_7
+    Coord
+
+    Features
+        DDMFace537
+    Position
+        -3.502713e-01    2.622209e-01    1.557156e-01
+    Load
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+    Torque
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+
+Load
+    Body
+        DDMPart_7
+    Coord
+
+    Features
+        DDMFace531
+    Position
+        -2.623659e-01    2.581423e-01    1.557156e-01
+    Load
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+    Torque
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+
+Load
+    Body
+        DDMPart_7
+    Coord
+
+    Features
+        DDMFace546
+    Position
+        -4.821294e-01    2.683388e-01    1.557156e-01
+    Load
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+    Torque
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+
+Load
+    Body
+        DDMPart_7
+    Coord
+
+    Features
+        DDMFace540
+    Position
+        -3.942240e-01    2.642602e-01    1.557156e-01
+    Load
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+    Torque
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+
+Load
+    Body
+        DDMPart_7
+    Coord
+
+    Features
+        DDMFace543
+    Position
+        -4.381767e-01    2.662995e-01    1.557156e-01
+    Load
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+    Torque
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+
+Load
+    Body
+        DDMPart_7
+    Coord
+
+    Features
+        DDMFace549
+    Position
+        -5.260822e-01    2.703781e-01    1.557156e-01
+    Load
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+    Torque
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+
+Load
+    Body
+        DDMPart_7
+    Coord
+
+    Features
+        DDMFace552
+    Position
+        -5.700349e-01    2.724174e-01    1.557156e-01
+    Load
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+    Torque
+        -0.000000e+00    -0.000000e+00    -0.000000e+00
+
+Load
+    Body
+        DDMPart_7
+    Coord
+
+    Features
+        DDMFace561
+    Position
+        -3.219257e-01    2.258681e-01    3.907156e-01
+    Load
+        1.873978e-13    2.701873e-13    2.394629e-28
+    Torque
+        -9.804448e-15    -4.069861e-15    4.975593e-14
+
+Load
+    Body
+        DDMPart_9
+    Coord
+
+    Features
+        DDMFace609
+    Position
+        3.773424e-01    2.499112e-01    6.507156e-01
+    Load
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Torque
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Load
+    Body
+        DDMPart_9
+    Coord
+
+    Features
+        DDMFace609
+    Position
+        3.880942e-02    2.450169e-01    6.507156e-01
+    Load
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Torque
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Load
+    Body
+        DDMPart_10
+    Coord
+
+    Features
+        DDMFace649
+    Position
+        3.773424e-01    2.499112e-01    1.307156e-01
+    Load
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Torque
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Load
+    Body
+        DDMPart_10
+    Coord
+
+    Features
+        DDMFace649
+    Position
+        3.880942e-02    2.450169e-01    1.307156e-01
+    Load
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Torque
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Load
+    Body
+        DDMPart_11
+    Coord
+
+    Features
+        DDMFace675
+    Position
+        3.880942e-02    2.450169e-01    6.507156e-01
+    Load
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Torque
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Load
+    Body
+        DDMPart_11
+    Coord
+
+    Features
+        DDMFace675
+    Position
+        -3.182338e-01    2.630942e-01    6.507156e-01
+    Load
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Torque
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Load
+    Body
+        DDMPart_12
+    Coord
+
+    Features
+        DDMFace715
+    Position
+        3.880942e-02    2.450169e-01    1.307156e-01
+    Load
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Torque
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Load
+    Body
+        DDMPart_12
+    Coord
+
+    Features
+        DDMFace715
+    Position
+        -3.182338e-01    2.630942e-01    1.307156e-01
+    Load
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Torque
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Load
+    Body
+        DDMPart_14
+    Coord
+
+    Features
+        DDMFace800
+    Position
+        -6.049973e-01    2.740396e-01    1.157156e-01
+    Load
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Torque
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Load
+    Body
+        DDMPart_16
+    Coord
+
+    Features
+        DDMFace868
+    Position
+        6.374355e-01    2.476039e-01    1.557156e-01
+    Load
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Torque
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Load
+    Body
+        DDMPart_17
+    Coord
+
+    Features
+        DDMFace882
+    Position
+        5.934355e-01    2.476039e-01    1.557156e-01
+    Load
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Torque
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Load
+    Body
+        DDMPart_18
+    Coord
+
+    Features
+        DDMFace896
+    Position
+        5.494355e-01    2.476039e-01    1.557156e-01
+    Load
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Torque
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Load
+    Body
+        DDMPart_19
+    Coord
+
+    Features
+        DDMFace908
+    Position
+        5.054355e-01    2.476039e-01    6.257156e-01
+    Load
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Torque
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Load
+    Body
+        DDMPart_20
+    Coord
+
+    Features
+        DDMFace922
+    Position
+        4.614355e-01    2.476039e-01    6.257156e-01
+    Load
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Torque
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Load
+    Body
+        DDMPart_21
+    Coord
+
+    Features
+        DDMFace938
+    Position
+        4.174355e-01    2.476039e-01    1.557156e-01
+    Load
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Torque
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Load
+    Body
+        DDMPart_22
+    Coord
+
+    Features
+        DDMFace952
+    Position
+        3.294355e-01    2.476039e-01    1.557156e-01
+    Load
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Torque
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Load
+    Body
+        DDMPart_23
+    Coord
+
+    Features
+        DDMFace966
+    Position
+        2.854355e-01    2.476039e-01    1.557156e-01
+    Load
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Torque
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Load
+    Body
+        DDMPart_24
+    Coord
+
+    Features
+        DDMFace980
+    Position
+        3.734355e-01    2.476039e-01    1.557156e-01
+    Load
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Torque
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Load
+    Body
+        DDMPart_25
+    Coord
+
+    Features
+        DDMFace994
+    Position
+        2.414355e-01    2.476039e-01    1.557156e-01
+    Load
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Torque
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Load
+    Body
+        DDMPart_26
+    Coord
+
+    Features
+        DDMFace1008
+    Position
+        1.974355e-01    2.476039e-01    1.557156e-01
+    Load
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Torque
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Load
+    Body
+        DDMPart_27
+    Coord
+
+    Features
+        DDMFace1020
+    Position
+        1.534355e-01    2.476039e-01    6.257156e-01
+    Load
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Torque
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Load
+    Body
+        DDMPart_28
+    Coord
+
+    Features
+        DDMFace1034
+    Position
+        1.094355e-01    2.476039e-01    6.257156e-01
+    Load
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Torque
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Load
+    Body
+        DDMPart_29
+    Coord
+
+    Features
+        DDMFace1050
+    Position
+        6.080503e-02    2.464714e-01    1.557156e-01
+    Load
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Torque
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Load
+    Body
+        DDMPart_30
+    Coord
+
+    Features
+        DDMFace1064
+    Position
+        1.680524e-02    2.463356e-01    1.557156e-01
+    Load
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Torque
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Load
+    Body
+        DDMPart_31
+    Coord
+
+    Features
+        DDMFace1078
+    Position
+        -4.260228e-02    2.479457e-01    1.557156e-01
+    Load
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Torque
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Load
+    Body
+        DDMPart_32
+    Coord
+
+    Features
+        DDMFace1092
+    Position
+        -1.305077e-01    2.520244e-01    1.557156e-01
+    Load
+        -4.467407e-14    9.663146e-14    -4.910472e-29
+    Torque
+        -2.287240e-14    -1.403314e-14    -2.219741e-29
+
+Load
+    Body
+        DDMPart_33
+    Coord
+
+    Features
+        DDMFace1106
+    Position
+        -8.655500e-02    2.499850e-01    1.557156e-01
+    Load
+        -8.727360e-14    1.138602e-13    -9.245700e-29
+    Torque
+        -2.692116e-14    -2.404403e-14    -2.577784e-29
+
+Load
+    Body
+        DDMPart_34
+    Coord
+
+    Features
+        DDMFace1120
+    Position
+        -1.744604e-01    2.540637e-01    1.557156e-01
+    Load
+        -3.273500e-14    7.411110e-14    -3.613471e-29
+    Torque
+        -1.758011e-14    -1.122746e-14    -1.704085e-29
+
+Load
+    Body
+        DDMPart_35
+    Coord
+
+    Features
+        DDMFace1134
+    Position
+        -3.063186e-01    2.601816e-01    1.557156e-01
+    Load
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Torque
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Load
+    Body
+        DDMPart_36
+    Coord
+
+    Features
+        DDMFace1148
+    Position
+        -2.184131e-01    2.561030e-01    1.557156e-01
+    Load
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Torque
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Load
+    Body
+        DDMPart_37
+    Coord
+
+    Features
+        DDMFace1162
+    Position
+        -3.502713e-01    2.622209e-01    1.557156e-01
+    Load
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Torque
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Load
+    Body
+        DDMPart_38
+    Coord
+
+    Features
+        DDMFace1176
+    Position
+        -2.623659e-01    2.581423e-01    1.557156e-01
+    Load
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Torque
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Load
+    Body
+        DDMPart_39
+    Coord
+
+    Features
+        DDMFace1190
+    Position
+        -4.821294e-01    2.683388e-01    1.557156e-01
+    Load
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Torque
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Load
+    Body
+        DDMPart_40
+    Coord
+
+    Features
+        DDMFace1204
+    Position
+        -3.942240e-01    2.642602e-01    1.557156e-01
+    Load
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Torque
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Load
+    Body
+        DDMPart_41
+    Coord
+
+    Features
+        DDMFace1218
+    Position
+        -4.381767e-01    2.662995e-01    1.557156e-01
+    Load
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Torque
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Load
+    Body
+        DDMPart_42
+    Coord
+
+    Features
+        DDMFace1232
+    Position
+        -5.260822e-01    2.703781e-01    1.557156e-01
+    Load
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Torque
+        0.000000e+00    0.000000e+00    0.000000e+00
+
+Load
+    Body
+        DDMPart_43
+    Coord
+
+    Features
+        DDMFace1246
+    Position
+        -5.700349e-01    2.724174e-01    1.557156e-01
+    Load
+        0.000000e+00    0.000000e+00    0.000000e+00
+    Torque
+        0.000000e+00    0.000000e+00    0.000000e+00
+

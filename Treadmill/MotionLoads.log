@@ -1,0 +1,66 @@
+Motion Load Import Log
+Tuesday, July 4, 2023 5:04:40 PM
+
+
+Load File: C:\Users\sahil\Desktop\Treadmill\MotionLoads.txt
+Target Part: Roller - New
+
+Part Transformation Matrix: 
+1  0  0  -0.130507713305236
+0  1  0  0.252024356070811
+0  0  1  0.390715578876558
+0  0  0  1
+
+Number of Loads: 3
+
+Load File Units are Metric (m, kg, N)
+Current User Units: Metric (m, kg, N, °C/K, s, V, A)
+
+LOAD: 1
+=========
+
+Type: Rotational Velocity
+
+Load File Data: (-6.276433e-15, 2.912123e-16, 6.283185) about axis (-0.1305077, 0.2520244, 0.3907156)
+
+Part Transform Applied: (-6.276433e-15, 2.912123e-16, 6.283185) about axis (-0.1305077, 0.2520244, 0.3907156)
+
+Current Units: (-5.993552021610565e-14, 2.780872622049597e-15, 59.99999706665103) about axis (-0.1305077, 0.2520244, 0.3907156)
+
+
+
+LOAD: 2
+=========
+
+Attribute: DDMFace1092
+Mapped to: Face 6
+
+Type: Force at Point
+
+Load File Data: (-4.467407e-14, 9.663146e-14, -4.910472e-29) at (-0.1305077, 0.2520244, 0.1557156)
+
+Part Transform Applied: (-4.467407e-14, 9.663146e-14, -4.910472e-29) at (-0.1305077, 0.2520244, 0.1557156)
+
+Current Units: (-4.467407e-14, 9.663146e-14, -4.910472e-29) at (-0.1305077, 0.2520244, 0.1557156)
+
+
+
+LOAD: 3
+=========
+
+Attribute: DDMFace1092
+Mapped to: Face 6
+
+Type: Moment
+
+Load File Data: (-2.28724e-14, -1.403314e-14, -2.219741e-29)
+
+Part Transform Applied: (-2.28724e-14, -1.403314e-14, -2.219741e-29)
+
+Current Units: (-2.28724e-14, -1.403314e-14, -2.219741e-29)
+
+
+
+
+
+Completed Successfully

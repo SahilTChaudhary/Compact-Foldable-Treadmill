@@ -1,0 +1,10 @@
+Report.docx
+*.jpg
+Stress Analysis.png
+*.jpg
+Stress Analysis.png
+*.svpj
+/Treadmill/Simulation_files
+/Treadmill/Simulation (Without Bearings)_files
+*.sdz
+*.stl
