@@ -11,7 +11,7 @@ During the age of COVID’19, with the onset of social distancing and lockdowns,
 * Conducted Static Structural Analysis and Rigid Body Dynamics study using Ansys
 * Static Structural Analysis was conducted considering Bearing Loads, Direct Force and Joint Moment
 * Induced Stress, Total Deformation and Fatigue Life were determined
-* The analyses were done using two materials - Carbon Steel and Aluminium Alloy.
+* The analyses were done using two materials - Carbon Steel and Aluminium Alloy
 
 <img src='/Treadmill/Images/Rendered Image.png'>
 
