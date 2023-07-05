@@ -7,10 +7,11 @@ During the age of COVID’19, with the onset of social distancing and lockdowns,
 **Work Done**
 
 * Designed the CAD model using SolidWorks
-* Calculated the applied Impulse Load and Failure Load, and conducted Static Structural Analysis using Ansys
 * Designed a folding mechanism for the treadmill by folding the deck in half for easy storage
-* The Treadmill is a manual one aimed at walking, with an inclination of 15° to facilitate easy movement
-* The Treadmill can withstand a load of 120kg, with a Factor of Safety of 6
+* Conducted Static Structural Analysis and Rigid Body Dynamics study using Ansys
+* Static Structural Analysis was conducted considering Bearing Loads, Direct Force and Joint Moment
+* Induced Stress, Total Deformation and Fatigue Life were determined
+* The analyses were done using two materials - Carbon Steel and Aluminium Alloy.
 
 <img src='/Treadmill/Images/Rendered Image.png'>
 
@@ -21,4 +22,4 @@ During the age of COVID’19, with the onset of social distancing and lockdowns,
 
 # CONCLUSION
 
-The stress analyses and simulations show that the Treadmill will not fail. Analyses were done using two materials, Carbon Steel and Aluminium Alloy. 
+The stress analyses and simulations show that the Treadmill will not fail. Analyses were done using two materials, Carbon Steel and Aluminium Alloy. The Fatigue Life Analysis showed that both the materials have infinite life cycle under the applied load of 1000N (assuming a person of weight 100kg is operating the treadmill). Hence, Fatigue failure due to Completely Reversed Loads is not a criterion for concern. Furthermore, neither of the materials fail, as the induced stresses are less than their yield stresses. Motion loads were also analysed, with both materials faring well. However, Total Deformation in the Aluminium Rollers was almost 10mm, as compared to 2mm in the Steel Rollers, which is intuitively correct as Steel is stronger than Aluminium. Hence, it was decided to used Steel for the Rollers, and Aluminium for the body and frame.
