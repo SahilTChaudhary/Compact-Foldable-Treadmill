@@ -6,12 +6,12 @@ During the age of COVID’19, with the onset of social distancing and lockdowns,
 
 **Work Done**
 
-* Designed the CAD model using SolidWorks
-* Designed a folding mechanism for the treadmill by folding the deck in half for easy storage
+* Designed the CAD model and folding mechanism using SolidWorks
 * Conducted Static Structural Analysis and Rigid Body Dynamics study using Ansys
 * Static Structural Analysis was conducted considering Bearing Loads, Direct Force and Joint Moment
 * Induced Stress, Total Deformation and Fatigue Life were determined
 * The analyses were done using two materials - Carbon Steel and Aluminium Alloy
+* Achieved a Factor of Safety of 4
 
 <img src='/Treadmill/Images/Rendered Image.png'>
 
